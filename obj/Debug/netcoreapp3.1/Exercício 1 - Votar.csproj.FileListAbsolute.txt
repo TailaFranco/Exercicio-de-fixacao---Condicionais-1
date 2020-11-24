@@ -1,0 +1,13 @@
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\bin\Debug\netcoreapp3.1\Exercício 1 - Votar.exe
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\bin\Debug\netcoreapp3.1\Exercício 1 - Votar.deps.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\bin\Debug\netcoreapp3.1\Exercício 1 - Votar.runtimeconfig.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\bin\Debug\netcoreapp3.1\Exercício 1 - Votar.runtimeconfig.dev.json
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\bin\Debug\netcoreapp3.1\Exercício 1 - Votar.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\bin\Debug\netcoreapp3.1\Exercício 1 - Votar.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.csprojAssemblyReference.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.AssemblyInfoInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.AssemblyInfo.cs
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.csproj.CoreCompileInputs.cache
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.dll
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.pdb
+C:\Users\Taila\Desktop\Dev\Exercícios de fixação - Condicionais\Exercício 1 - Votar\obj\Debug\netcoreapp3.1\Exercício 1 - Votar.genruntimeconfig.cache
